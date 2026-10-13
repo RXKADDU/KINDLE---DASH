@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "name": "KD Dashboard",
+      "priority": 0,
+      "items": [
+        {"name": "Run download test", "priority": 1, "action": "/bin/sh", "params": "/mnt/us/extensions/kddash/test.sh"}
+      ]
+    }
+  ]
+}
