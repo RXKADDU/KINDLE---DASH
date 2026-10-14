@@ -1,0 +1,8 @@
+{
+  "_help": "Pages appear on the Kindle in this order. Available: home, gold, exchange",
+  "pages": ["home", "gold", "exchange"],
+  "timezone": "Asia/Dubai",
+  "gold_karats": ["24K", "22K"],
+  "_gold_estimate_help": "Only used if no Dubai retail source can be read. 24K = world spot price x premium; 22K = 24K x ratio",
+  "gold_estimate": {"premium_24k": 1.0207, "ratio_22k": 0.926}
+}

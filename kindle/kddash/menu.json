@@ -4,7 +4,8 @@
       "name": "KD Dashboard",
       "priority": 0,
       "items": [
-        {"name": "Run download test", "priority": 1, "action": "/bin/sh", "params": "/mnt/us/extensions/kddash/test.sh"}
+        {"name": "Start dashboard", "priority": 1, "action": "/bin/sh", "params": "/mnt/us/extensions/kddash/start.sh"},
+        {"name": "Run download test", "priority": 2, "action": "/bin/sh", "params": "/mnt/us/extensions/kddash/test.sh"}
       ]
     }
   ]
