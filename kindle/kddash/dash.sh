@@ -5,6 +5,8 @@
 #   Home, Back or Menu: exit back to the normal Kindle screen
 # Log: dash_log.txt on the Kindle drive
 
+trap '' HUP
+set -x
 KD=/mnt/us/extensions/kddash
 PAGES=$KD/pages
 LOG=/mnt/us/dash_log.txt
