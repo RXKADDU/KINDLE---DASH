@@ -1,0 +1,15 @@
+{
+  "usd_inr": 95.036492,
+  "usd_aed": 3.6725,
+  "fx_source": "open.er-api.com",
+  "fx_time": "2026-10-24T19:23:15.134278+04:00",
+  "spot_usd_oz": 3996.899902,
+  "spot_source": "gold-api.com",
+  "gold_aed": {
+    "24K": 481.5,
+    "22K": 446.0
+  },
+  "gold_source": "https://www.khaleejtimes.com/gold-forex",
+  "gold_estimated": false,
+  "gold_time": "2026-10-24T19:23:15.134278+04:00"
+}
