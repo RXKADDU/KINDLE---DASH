@@ -1,0 +1,3 @@
+1_home.png
+2_gold.png
+3_exchange.png
