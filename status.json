@@ -1,0 +1,16 @@
+{
+  "usd_inr": 92.976116,
+  "usd_aed": 3.6725,
+  "fx_source": "open.er-api.com",
+  "fx_time": "2026-11-28T14:00:25.517832+04:00",
+  "spot_usd_oz": 3650.0,
+  "spot_source": "gold-api.com",
+  "gold_aed": {
+    "24K": 440.25,
+    "22K": 407.75
+  },
+  "gold_source": "https://gulfnews.com/gold-forex",
+  "gold_estimated": false,
+  "gold_time": "2026-11-28T14:00:25.517832+04:00",
+  "built": "2026-11-28T14:00:26.311476+04:00"
+}
